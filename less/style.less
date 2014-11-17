@@ -1,0 +1,75 @@
+.container {
+  margin-top:50px;
+  border-top:1px solid black;
+}
+
+//Generate logo style blocks, call 16.
+.generate-logos(16);
+
+//Font Elements:
+//googleFont, fontFamily, cssClass
+@fonts: Overlock Overlock overlock,
+'Playfair+Display' 'Playfair Display' playfair,
+Alegreya Alegreya alegreya,
+'Source+Sans+Pro' 'Source Sans Pro' source,
+Roboto Roboto roboto,
+Lato Lato lato,
+Raleway Raleway raleway,
+Arimo Arimo arimo,
+'Josefin+Slab' 'Josefin Slab' josefin,
+Arvo Arvo arvo,
+Vollkorn Vollkorn vollkorn,
+'Abril+Fatface' 'Abril Fatface' abril,
+Ubuntu Ubuntu ubuntu;
+
+.generate-fonts();
+
+
+
+//
+// Functions
+//
+.generate-fonts(@i:1) when (@i =< length(@fonts)) {
+  @google: extract(extract(@fonts, @i),1);
+  @face:  extract(extract(@fonts, @i),2);
+  @selector: extract(extract(@fonts, @i),3);
+  @import url("http://fonts.googleapis.com/css?family=@{google}:400,700,900,400italic,700italic,900italic");
+  .@{selector} h2 {
+    font-family: @face;
+  }
+  .@{selector}:before {
+    .mixin-badge-content;
+    content: "@{face}";
+  }
+  .generate-fonts((@i + 1));
+}
+
+.generate-logos(@n, @i: 1) when (@i =< @n) {
+  .logo-@{i}:before {
+    content: "Logo-@{i}";
+    .mixin-badge-content;
+  }
+  .generate-logos(@n, (@i+1));
+}
+
+
+//
+// Mixins
+//
+
+
+.mixin-badge-content() {
+  font-size:12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color:#ddd;
+  color:#000;
+  text-transform: uppercase;
+
+  display:table;
+  padding:3px;
+  margin-bottom:5px;
+}
+
+

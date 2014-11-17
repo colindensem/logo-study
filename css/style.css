@@ -1,0 +1,433 @@
+@import url("http://fonts.googleapis.com/css?family=Overlock:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Alegreya:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Roboto:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Lato:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Raleway:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Arimo:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Josefin+Slab:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Arvo:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Vollkorn:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Abril+Fatface:400,700,900,400italic,700italic,900italic");
+@import url("http://fonts.googleapis.com/css?family=Ubuntu:400,700,900,400italic,700italic,900italic");
+.container {
+  margin-top: 50px;
+  border-top: 1px solid black;
+}
+.logo-1:before {
+  content: "Logo-1";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-2:before {
+  content: "Logo-2";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-3:before {
+  content: "Logo-3";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-4:before {
+  content: "Logo-4";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-5:before {
+  content: "Logo-5";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-6:before {
+  content: "Logo-6";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-7:before {
+  content: "Logo-7";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-8:before {
+  content: "Logo-8";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-9:before {
+  content: "Logo-9";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-10:before {
+  content: "Logo-10";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-11:before {
+  content: "Logo-11";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-12:before {
+  content: "Logo-12";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-13:before {
+  content: "Logo-13";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-14:before {
+  content: "Logo-14";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-15:before {
+  content: "Logo-15";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.logo-16:before {
+  content: "Logo-16";
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+}
+.overlock h2 {
+  font-family: Overlock;
+}
+.overlock:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Overlock";
+}
+.playfair h2 {
+  font-family: 'Playfair Display';
+}
+.playfair:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Playfair Display";
+}
+.alegreya h2 {
+  font-family: Alegreya;
+}
+.alegreya:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Alegreya";
+}
+.source h2 {
+  font-family: 'Source Sans Pro';
+}
+.source:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Source Sans Pro";
+}
+.roboto h2 {
+  font-family: Roboto;
+}
+.roboto:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Roboto";
+}
+.lato h2 {
+  font-family: Lato;
+}
+.lato:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Lato";
+}
+.raleway h2 {
+  font-family: Raleway;
+}
+.raleway:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Raleway";
+}
+.arimo h2 {
+  font-family: Arimo;
+}
+.arimo:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Arimo";
+}
+.josefin h2 {
+  font-family: 'Josefin Slab';
+}
+.josefin:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Josefin Slab";
+}
+.arvo h2 {
+  font-family: Arvo;
+}
+.arvo:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Arvo";
+}
+.vollkorn h2 {
+  font-family: Vollkorn;
+}
+.vollkorn:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Vollkorn";
+}
+.abril h2 {
+  font-family: 'Abril Fatface';
+}
+.abril:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Abril Fatface";
+}
+.ubuntu h2 {
+  font-family: Ubuntu;
+}
+.ubuntu:before {
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  background-color: #ddd;
+  color: #000;
+  text-transform: uppercase;
+  display: table;
+  padding: 3px;
+  margin-bottom: 5px;
+  content: "Ubuntu";
+}
